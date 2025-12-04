@@ -1,1 +1,6 @@
-# 3vc24cs055
+include<stdio.h>
+void main()
+{
+printf("c program");
+getch();
+}
